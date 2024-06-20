@@ -1,0 +1,19 @@
+{
+  "name": "QRScanner",
+  "version": "0.2.0",
+  "summary": "QRScanner helps to scan QR codes in ARKit",
+  "description": "QRScanner scans an ARFrame, CIImage or CVPixelBuffer for a QR Code.",
+  "homepage": "https://github.com/maxxfrazer/ARKit-QRScanner",
+  "license": "MIT",
+  "authors": "Max Cobb",
+  "source": {
+    "git": "https://github.com/maxxfrazer/ARKit-QRScanner.git",
+    "tag": "0.2.0"
+  },
+  "swift_versions": "4.1",
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": "ARKit-QRScanner/*.swift",
+  "swift_version": "4.1"
+}

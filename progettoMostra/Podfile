@@ -1,0 +1,4 @@
+target 'progettoMostra' do
+  use_frameworks!
+  pod 'QRScanner', :git => 'https://github.com/maxxfrazer/ARKit-QRScanner.git'
+end

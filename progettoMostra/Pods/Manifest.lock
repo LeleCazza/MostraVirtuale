@@ -1,0 +1,21 @@
+PODS:
+  - QRScanner (0.2.0)
+
+DEPENDENCIES:
+  - QRScanner (from `https://github.com/maxxfrazer/ARKit-QRScanner.git`)
+
+EXTERNAL SOURCES:
+  QRScanner:
+    :git: https://github.com/maxxfrazer/ARKit-QRScanner.git
+
+CHECKOUT OPTIONS:
+  QRScanner:
+    :commit: 7155a8f594cd2b2ad1346213a196adff0b284c07
+    :git: https://github.com/maxxfrazer/ARKit-QRScanner.git
+
+SPEC CHECKSUMS:
+  QRScanner: 8ca083ed43dc6cc305f7e3b6d0e9f0170cac0e18
+
+PODFILE CHECKSUM: 40906f0ba3aca27904aaf3e20df1c4b2a5ff0288
+
+COCOAPODS: 1.12.0
